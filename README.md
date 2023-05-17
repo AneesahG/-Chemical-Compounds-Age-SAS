@@ -58,6 +58,7 @@ model age=cys_acid cys met tyr;
 output out=dis2.carpet;
 
 ```
+**please note there is a typo in line one, the first statement should read 'libname' to associate the chemicals' library with a libref. Sorry!
 <img width="419" alt="Screenshot 2023-05-16 212748" src="https://github.com/AneesahG/-Chemical-Compounds-Age-SAS/assets/133827224/ce99de20-6359-4233-8608-f9e0bbdf582b">
 
 
